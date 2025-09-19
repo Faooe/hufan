@@ -30,8 +30,9 @@ function updateDashboardStats() {
       statusText.textContent = newStatus === 'available' ? 'Tersedia' : 'Terisi';
 
       updateDashboardStats();
-    }, 500);
+    }, 5000);
 
     // Panggil pertama kali
 
     updateDashboardStats();
+
