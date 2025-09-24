@@ -13,7 +13,7 @@
 
         /* Header Styles */
         header {
-            background: linear-gradient(90deg, #FAA533, #1d4ed8);
+            background: linear-gradient(90deg, #FAA533, #FFDE63);
             color: white;
             padding: 1rem 2rem;
             display: flex;
@@ -160,7 +160,7 @@
         }
 
         .stat-card {
-            background: linear-gradient(135deg, #3b82f6, #FAA533);
+            background: linear-gradient(135deg, #FFDE63, #FAA533);
             color: white;
             padding: 1.5rem;
             border-radius: 8px;
@@ -192,7 +192,7 @@
         }
 
         .data-table h2 {
-            background-color: #2563eb;
+            background-color: #FFDE63;
             color: white;
             padding: 1.2rem 1.5rem;
             margin: 0;
@@ -315,3 +315,4 @@
             }
 
         }
+
