@@ -13,7 +13,7 @@
 
         /* Header Styles */
         header {
-            background: linear-gradient(50deg, #399918, #ECFFE6);
+            background-color: #399918;
             color: white;
             padding: 1rem 2rem;
             display: flex;
@@ -315,6 +315,7 @@
             }
 
         }
+
 
 
 
