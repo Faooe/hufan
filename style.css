@@ -112,7 +112,7 @@
 
         .parking-spot.available {
             background: linear-gradient(45deg, #white, #DDF4E7);
-            color: white;
+            color: #399918;
         }
 
 
@@ -315,6 +315,7 @@
             }
 
         }
+
 
 
 
