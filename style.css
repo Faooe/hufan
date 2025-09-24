@@ -13,7 +13,7 @@
 
         /* Header Styles */
         header {
-            background: linear-gradient(90deg, #2563eb, #1d4ed8);
+            background: linear-gradient(90deg, #FAA533, #1d4ed8);
             color: white;
             padding: 1rem 2rem;
             display: flex;
@@ -160,7 +160,7 @@
         }
 
         .stat-card {
-            background: linear-gradient(135deg, #3b82f6, #2563eb);
+            background: linear-gradient(135deg, #3b82f6, #FAA533);
             color: white;
             padding: 1.5rem;
             border-radius: 8px;
@@ -289,7 +289,7 @@
                 position: absolute;
                 top: 100%;
                 right: 0;
-                background: #2563eb;
+                background: #FAA533;
                 width: 100%;
                 flex-direction: column;
                 padding: 1rem 0;
@@ -313,4 +313,5 @@
             .stats-container {
                 grid-template-columns: 1fr;
             }
+
         }
