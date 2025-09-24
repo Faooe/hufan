@@ -160,7 +160,7 @@
         }
 
         .stat-card {
-            background: linear-gradient(135deg, #FFDE63, #FAA533);
+            background: linear-gradient(135deg, #399918, #8FA31E);
             color: white;
             padding: 1.5rem;
             border-radius: 8px;
@@ -192,7 +192,7 @@
         }
 
         .data-table h2 {
-            background-color: #FFDE63;
+            background-color: #399918;
             color: white;
             padding: 1.2rem 1.5rem;
             margin: 0;
@@ -315,6 +315,7 @@
             }
 
         }
+
 
 
 
